@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9112
     wikipedia: http://en.wikipedia.org/wiki/John_W._Campbell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23790#The-Ultimate-Weapon
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-12-10'
 gutenberg_type: Text
